@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'Eswar-task5'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B5E6832A0FE4FB1BE76C025CFF535B8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EAA1BC78163140548CF8F902E5BB35ED }}
           package: '*.jar'
