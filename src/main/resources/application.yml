@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://eswarganesan703:1234qwer@eswarcluster.rfxsjaw.mongodb.net/?retryWrites=true&w=majority
+      database : CustomerDB
